@@ -1,4 +1,4 @@
-# @bettaibi/create-node-starter
+# @bettaibi/create-node-starter (in progress)
 
 An interactive CLI tool to quickly scaffold a **TypeScript-based Node.js** project with your choice of framework: **Express**, **Fastify**, or **Koa**.
 
