@@ -5,6 +5,7 @@
   "bin": {
     "@bettaibi/create-node-starter": "dist/index.js"
   },
+  "homepage": "https://github.com/bettaibi/create-node-starter",
   "files": [
     "dist"
   ],
