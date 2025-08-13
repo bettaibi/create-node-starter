@@ -1,0 +1,43 @@
+{
+  "name": "@bettaibi/create-node-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "@bettaibi/create-node-starter": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "degit": "^2.8.4",
+    "inquirer": "^12.9.2"
+  },
+  "devDependencies": {
+    "@types/degit": "^2.8.6",
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0"
+  },
+  "description": "node starter cli",
+  "keywords": [
+    "node cli",
+    "node",
+    "node framework",
+    "node starter",
+    "node starter template",
+    "express",
+    "fastify",
+    "koa",
+    "graphql",
+    "node-typescript",
+    "node-ts",
+    "server component",
+    "react",
+    "backend"
+  ],
+  "author": "Nidhal Bettaibi",
+  "license": "MIT"
+}
